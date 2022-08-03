@@ -1,0 +1,39 @@
+.navbar-light .navbar-nav .nav-link.navL {
+    color:black;
+}
+
+.Logo{height: 3rem;
+	  width:  3rem;
+}
+
+.way{color: blue;}
+
+.cs{border-radius: 100px;
+	background-color: black;
+	color: white;
+	margin: auto;
+}
+
+.head{text-align: center;}
+
+.head2{text-align: center;}
+
+.csb{text-align: center;}
+
+.Trusted{display: flex;
+	     width: 100%;
+	     height: 200px;
+	     background-color: black;
+	     color: white;
+	     margin-top: 50px;
+	     justify-content: center;
+}
+.companies{text-align: center;}
+
+.brands{justify-content: flex-end;
+	     display: flex;
+
+}
+
+
+

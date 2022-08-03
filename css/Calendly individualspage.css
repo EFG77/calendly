@@ -1,0 +1,34 @@
+
+.navbar-light .navbar-nav .nav-link.navL {
+    color:black;
+}
+
+.Logo{height: 3rem;
+	  width:  3rem;
+}
+.Free{border-radius: 100px;}
+
+.work-better{margin-top: 50px;}
+
+#curated{margin-top: 50px;}
+
+#Book{margin-top: 20px;}
+
+#automated{margin-top: 50px;}
+
+.plans{margin-top: 30px;
+	   width: 100%;
+	   height: 400px;
+	   background-color: blue;
+}
+#plans-text{color: white;}
+
+#plans-button{border-radius: 100px;}
+
+
+.lang-drop{margin-top: 40px;}
+
+.footer{display: flex;
+	     justify-content: space-between;
+	     flex-flow: column; nowrap;
+}

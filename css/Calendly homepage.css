@@ -1,0 +1,52 @@
+.navline{width: 100%;}
+.navlinks{margin-left: 40px;
+}
+
+.navbar-light .navbar-nav .nav-link.navL {
+    color:black;
+}
+
+.link{color: black;}
+
+.Home-row1{margin-top: 100px;}
+
+.mail-input{width: 200px;
+	        height:2rem;
+	        border-radius: 100px;
+}
+
+.SignUp{width: 80px;
+	        height: 2rem;
+	        border-radius: 100px;
+	        color: white;
+	        background-color: black;
+}
+
+#scheduling{margin: none;
+	        text-align: center;
+}
+
+.partners{display: flex;
+	      flex-direction: column;
+	      margin-top: 200px;
+	      justify-content: center;
+}
+.teng{color: blue;}
+
+.ahead{color: blue;}
+
+.users{margin-left: 70px;
+}
+
+.partner-logos{text-align: center;
+}
+
+.simplified{text-align: center;}
+
+.ruies{
+	   margin-top: 100px;
+	   font-size: 0.5rem;
+}
+
+
+
